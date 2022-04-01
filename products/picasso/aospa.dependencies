@@ -36,10 +36,10 @@
         "revision":     "sapphire"
     },
     {
-        "remote":       "aospa",
-        "repository":   "aospa-picasso/android_vendor_xiaomi_picasso-firmware",
+        "remote":       "gitlab",
+        "repository":   "EndCredits/android_vendor_xiaomi_picasso-firmware",
         "target_path":  "vendor/xiaomi/picasso-firmware",
-        "revision":     "sapphire"
+        "revision":     "stable"
     },
     {
         "remote":       "aospa",
