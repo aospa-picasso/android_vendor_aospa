@@ -1,0 +1,50 @@
+[
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/android_device_xiaomi_picasso",
+        "target_path":  "device/xiaomi/picasso",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/hardware_qcom-caf_sm8250_audio",
+        "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/hardware_qcom-caf_sm8250_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/hardware_qcom-caf_sm8250_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/android_kernel_xiaomi_sm7250",
+        "target_path":  "kernel/xiaomi/sm7250",
+        "revision":     "12.0-main"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/android_vendor_xiaomi_picasso",
+        "target_path":  "vendor/xiaomi/picasso",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/android_vendor_xiaomi_picasso-firmware",
+        "target_path":  "vendor/xiaomi/picasso-firmware",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-picasso/android_hardware_xiaomi",
+        "target_path":  "hardware/xiaomi",
+        "revision":     "sapphire"
+    }
+]
